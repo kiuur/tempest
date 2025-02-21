@@ -1,6 +1,6 @@
 const fs = require('fs')
 
-global.owner = "62"
+global.owner = "62881026633190"
 global.status = true
 
 global.mess = {
@@ -10,9 +10,9 @@ global.mess = {
 }
 
 global.packname = '— rimuru tempest'
-global.author = '\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n'
+global.author = 'ALDY'
 
-global.pairing = "TEMPESTT"
+global.pairing = "ALDYRRQ1"
 
 let file = require.resolve(__filename)
 require('fs').watchFile(file, () => {
